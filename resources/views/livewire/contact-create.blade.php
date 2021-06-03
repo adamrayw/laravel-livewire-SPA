@@ -15,7 +15,7 @@
             <div>
                 <button type="submit" wire:click="caneae" class="focus:outline-none text-white text-sm py-2 px-6 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg">Add</button>
 
-                <div wire:loading.delay class="ml-2">
+                <div wire:loading.delay wire:target="caneae" class="ml-2">
                     Process Adding...
                 </div>
             </div>
