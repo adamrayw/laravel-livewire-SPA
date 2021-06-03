@@ -44,7 +44,9 @@ class ContactCreate extends Component
         $this->emit('contactStored', $contacts);
     }
 
-
+    public function caneae()
+    {
+    }
 
     private function resetInput()
     {

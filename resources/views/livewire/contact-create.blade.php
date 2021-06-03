@@ -13,7 +13,7 @@
                 @error('phone') <span class="text-red-400 text-sm">{{ $message }}</span>@enderror
             </div>
             <div>
-                <button type="submit" wire:click="store" class="focus:outline-none text-white text-sm py-2 px-6 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg">Add</button>
+                <button type="submit" wire:click="caneae" class="focus:outline-none text-white text-sm py-2 px-6 rounded-md bg-blue-500 hover:bg-blue-600 hover:shadow-lg">Add</button>
 
                 <div wire:loading.delay class="ml-2">
                     Process Adding...
