@@ -3,6 +3,8 @@ Building modern web apps is hard. Tools like Vue and React are extremely powerfu
 
 Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel.
 
+It's not like anything you've seen before. The best way to understand it is to just look at the code. Strap on your snorkel, we're diving in.
+
 ## Installation
 
 - Clone this repository
