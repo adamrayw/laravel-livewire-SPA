@@ -14,6 +14,21 @@
     <!-- Styles -->
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
+    <style>
+        .container-search {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row-reverse;
+        }
+
+        @media screen and (max-width: 600px) {
+            .container-search {
+                display: block;
+                flex-direction: column;
+            }
+        }
+    </style>
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     @wireUiStyles

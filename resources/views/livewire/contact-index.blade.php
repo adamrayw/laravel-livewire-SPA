@@ -21,8 +21,8 @@
             </g>
         </svg>
     </div>
-    <div class="flex flex-row-reverse justify-between">
-        <div class="w-80 max-w-full px-0 mt-2">
+    <div class="container-search">
+        <div class="w-80 max-w-full px-0 my-2">
             <div class="w-80 max-w-full inline-block relative ">
                 <input wire:model="search" type="search" name="" class="leading-snug border border-gray-300 block w-full appearance-none bg-gray-100 text-sm text-gray-600 py-2 px-4 pl-8 rounded-lg" placeholder="Search by name..." />
 
