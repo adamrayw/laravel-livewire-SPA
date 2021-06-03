@@ -12,6 +12,10 @@ Livewire is a full-stack framework for Laravel that makes building dynamic inter
 php artisan serve
 ```
 
+## Preview
+Live Preview
+[here](http://vast-wildwood-28906.herokuapp.com/dashboard)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
