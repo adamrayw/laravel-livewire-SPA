@@ -12,6 +12,14 @@ Livewire is a full-stack framework for Laravel that makes building dynamic inter
 php artisan serve
 ```
 
+## Features
+- CRUD Without reload page
+- Live Search
+- Choose per posting
+- Nice Notification
+- Pagination
+and other little things...
+
 ## Preview
 Live Preview
 [here](http://vast-wildwood-28906.herokuapp.com/dashboard)
