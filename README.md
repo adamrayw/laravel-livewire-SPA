@@ -1,4 +1,4 @@
-# Livewire Single Page Application
+# Livewire
 Building modern web apps is hard. Tools like Vue and React are extremely powerful, but the complexity they add to a full-stack developer's workflow is insane.
 
 Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel.
