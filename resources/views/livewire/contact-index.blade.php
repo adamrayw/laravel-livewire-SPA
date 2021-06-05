@@ -24,7 +24,7 @@
     <div class="container-search">
         <div class="w-80 max-w-full px-0 my-2">
             <div class="w-80 max-w-full inline-block relative ">
-                <input wire:model="search" type="search" name="" class="leading-snug border border-gray-300 block w-full appearance-none bg-gray-100 text-sm text-gray-600 py-2 px-4 pl-8 rounded-lg" placeholder="Search by name..." />
+                <input wire:model="search" type="search" name="" class="leading-snug border border-gray-300 block w-full appearance-none bg-gray-100 text-sm text-gray-600 py-2 px-4 pl-8 rounded-lg" placeholder="Search" />
 
                 <div class="pointer-events-none absolute pl-3 inset-y-0 left-0 flex items-center px-2 text-gray-300">
 
