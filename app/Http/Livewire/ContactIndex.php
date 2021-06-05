@@ -26,7 +26,7 @@ class ContactIndex extends Component
     public function render()
     {
         return view('livewire.contact-index', [
-            'contacts' => Contact::where('name', 'like', '%' . $this->search . '%')->paginate($this->paginate)
+            'contacts' => Contact::latest()->where('name', 'like', '%' . $this->search . '%')->paginate($this->paginate)
 
         ]);
     }
