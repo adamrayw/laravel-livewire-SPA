@@ -12,7 +12,7 @@
 
     <div class="flex justify-between items-center w-full pt-6 ">
 
-        <p class="text-2xl font-bold"> Users Tables</p>
+        <p class="text-2xl font-bold"> Users Table</p>
         <svg width="14" height="4" viewBox="0 0 14 4" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g opacity="0.4">
                 <circle cx="2.19796" cy="1.80139" r="1.38611" fill="#222222" />
@@ -24,7 +24,7 @@
     <div class="container-search">
         <div class="w-80 max-w-full px-0 my-2">
             <div class="w-80 max-w-full inline-block relative ">
-                <input wire:model="search" type="search" name="" class="leading-snug border border-gray-300 block w-full appearance-none bg-gray-100 text-sm text-gray-600 py-2 px-4 pl-8 rounded-lg" placeholder="Search" />
+                <input wire:model="search" type="search" name="" class="leading-snug border border-gray-300 block w-full appearance-none bg-gray-100 text-sm text-gray-600 py-2 px-4 pl-8 rounded-lg" placeholder="Search by name..." />
 
                 <div class="pointer-events-none absolute pl-3 inset-y-0 left-0 flex items-center px-2 text-gray-300">
 
