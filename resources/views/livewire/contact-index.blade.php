@@ -10,7 +10,7 @@
     @endif
     <hr>
 
-    <div class="flex justify-between w-full pt-6 ">
+    <div class="flex justify-between items-center w-full pt-6 ">
 
         <p class="text-2xl font-bold"> Users Table</p>
         <svg width="14" height="4" viewBox="0 0 14 4" fill="none" xmlns="http://www.w3.org/2000/svg">
