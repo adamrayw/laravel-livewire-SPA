@@ -5,14 +5,14 @@ Livewire is a full-stack framework for Laravel that makes building dynamic inter
 
 It's not like anything you've seen before. The best way to understand it is to just look at the code. Strap on your snorkel, we're diving in.
 
-## Installation
+<!-- ## Installation
 
 - Clone this repository
 - Run the server
 
 ```bash
 php artisan serve
-```
+``` -->
 
 ## Features
 - CRUD Without reload page
